@@ -90,4 +90,3 @@ class ApiDemoTestDelete(SmokeTest):
         endereco_response = resposta_dict
 
         self.assertTrue(endereco_response)
-  

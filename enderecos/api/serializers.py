@@ -15,3 +15,4 @@ class EnderecoSerializer(ModelSerializer):
             'latitude',
             'longitude',
         )
+        

@@ -12,3 +12,4 @@ class AvaliacaoSerializer(ModelSerializer):
             'nota',
             'data'
         )
+        

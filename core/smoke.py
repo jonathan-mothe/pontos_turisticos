@@ -11,3 +11,4 @@ class DemoTest(SmokeTest):
 
     def test_ponto_turistico_writes(self):
         f = PontoTuristico.objects.create() """
+        

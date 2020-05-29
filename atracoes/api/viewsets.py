@@ -8,3 +8,4 @@ class AtracaoViewSet(ModelViewSet):
     serializer_class = AtracaoSerializer
     filter_backends = (DjangoFilterBackend,)
     filter_fields = ('nome', 'descricao')
+    
